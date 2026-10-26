@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SistemaPlanilla.BLL</id>
+    <version>1.0.0</version>
+    <authors>SistemaPlanilla.BLL</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net10.0-windows7.0">
+        <dependency id="SistemaPlanilla.DAL" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="SistemaPlanilla.Entity" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Administrador\Desktop\Practica C#\SistemaPlanilla\SistemaPlanilla.BLL\bin\Debug\net10.0-windows\SistemaPlanilla.BLL.dll" target="lib\net10.0-windows7.0\SistemaPlanilla.BLL.dll" />
+  </files>
+</package>

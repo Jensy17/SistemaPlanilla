@@ -1,0 +1,17 @@
+C:\Users\Administrador\Desktop\Practica C#\SistemaPlanilla\SistemaPlanilla.BLL\bin\Debug\net10.0\SistemaPlanilla.BLL.deps.json
+C:\Users\Administrador\Desktop\Practica C#\SistemaPlanilla\SistemaPlanilla.BLL\bin\Debug\net10.0\SistemaPlanilla.BLL.dll
+C:\Users\Administrador\Desktop\Practica C#\SistemaPlanilla\SistemaPlanilla.BLL\bin\Debug\net10.0\SistemaPlanilla.BLL.pdb
+C:\Users\Administrador\Desktop\Practica C#\SistemaPlanilla\SistemaPlanilla.BLL\bin\Debug\net10.0\SistemaPlanilla.DAL.dll
+C:\Users\Administrador\Desktop\Practica C#\SistemaPlanilla\SistemaPlanilla.BLL\bin\Debug\net10.0\SistemaPlanilla.Entity.dll
+C:\Users\Administrador\Desktop\Practica C#\SistemaPlanilla\SistemaPlanilla.BLL\bin\Debug\net10.0\SistemaPlanilla.DAL.pdb
+C:\Users\Administrador\Desktop\Practica C#\SistemaPlanilla\SistemaPlanilla.BLL\bin\Debug\net10.0\SistemaPlanilla.Entity.pdb
+C:\Users\Administrador\Desktop\Practica C#\SistemaPlanilla\SistemaPlanilla.BLL\obj\Debug\net10.0\SistemaPlanilla.BLL.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\Practica C#\SistemaPlanilla\SistemaPlanilla.BLL\obj\Debug\net10.0\SistemaPlanilla.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\Practica C#\SistemaPlanilla\SistemaPlanilla.BLL\obj\Debug\net10.0\SistemaPlanilla.BLL.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\Practica C#\SistemaPlanilla\SistemaPlanilla.BLL\obj\Debug\net10.0\SistemaPlanilla.BLL.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\Practica C#\SistemaPlanilla\SistemaPlanilla.BLL\obj\Debug\net10.0\SistemaPlanilla.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Practica C#\SistemaPlanilla\SistemaPlanilla.BLL\obj\Debug\net10.0\SistemaP.00745D09.Up2Date
+C:\Users\Administrador\Desktop\Practica C#\SistemaPlanilla\SistemaPlanilla.BLL\obj\Debug\net10.0\SistemaPlanilla.BLL.dll
+C:\Users\Administrador\Desktop\Practica C#\SistemaPlanilla\SistemaPlanilla.BLL\obj\Debug\net10.0\refint\SistemaPlanilla.BLL.dll
+C:\Users\Administrador\Desktop\Practica C#\SistemaPlanilla\SistemaPlanilla.BLL\obj\Debug\net10.0\SistemaPlanilla.BLL.pdb
+C:\Users\Administrador\Desktop\Practica C#\SistemaPlanilla\SistemaPlanilla.BLL\obj\Debug\net10.0\ref\SistemaPlanilla.BLL.dll

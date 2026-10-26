@@ -1,0 +1,12 @@
+C:\Users\Administrador\Desktop\Practica C#\SistemaPlanilla\SistemaPlanilla.Entity\bin\Debug\net10.0\SistemaPlanilla.Entity.deps.json
+C:\Users\Administrador\Desktop\Practica C#\SistemaPlanilla\SistemaPlanilla.Entity\bin\Debug\net10.0\SistemaPlanilla.Entity.dll
+C:\Users\Administrador\Desktop\Practica C#\SistemaPlanilla\SistemaPlanilla.Entity\bin\Debug\net10.0\SistemaPlanilla.Entity.pdb
+C:\Users\Administrador\Desktop\Practica C#\SistemaPlanilla\SistemaPlanilla.Entity\obj\Debug\net10.0\SistemaPlanilla.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\Practica C#\SistemaPlanilla\SistemaPlanilla.Entity\obj\Debug\net10.0\SistemaPlanilla.Entity.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\Practica C#\SistemaPlanilla\SistemaPlanilla.Entity\obj\Debug\net10.0\SistemaPlanilla.Entity.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\Practica C#\SistemaPlanilla\SistemaPlanilla.Entity\obj\Debug\net10.0\SistemaPlanilla.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Practica C#\SistemaPlanilla\SistemaPlanilla.Entity\obj\Debug\net10.0\SistemaPlanilla.Entity.dll
+C:\Users\Administrador\Desktop\Practica C#\SistemaPlanilla\SistemaPlanilla.Entity\obj\Debug\net10.0\refint\SistemaPlanilla.Entity.dll
+C:\Users\Administrador\Desktop\Practica C#\SistemaPlanilla\SistemaPlanilla.Entity\obj\Debug\net10.0\SistemaPlanilla.Entity.pdb
+C:\Users\Administrador\Desktop\Practica C#\SistemaPlanilla\SistemaPlanilla.Entity\obj\Debug\net10.0\ref\SistemaPlanilla.Entity.dll
+C:\Users\Administrador\Desktop\Practica C#\SistemaPlanilla\SistemaPlanilla.Entity\obj\Debug\net10.0\SistemaP.95FBAE5E.Up2Date

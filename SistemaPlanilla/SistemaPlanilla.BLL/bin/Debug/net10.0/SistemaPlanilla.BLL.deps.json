@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "SistemaPlanilla.BLL/1.0.0": {
+        "dependencies": {
+          "SistemaPlanilla.DAL": "1.0.0",
+          "SistemaPlanilla.Entity": "1.0.0"
+        },
+        "runtime": {
+          "SistemaPlanilla.BLL.dll": {}
+        }
+      },
+      "SistemaPlanilla.DAL/1.0.0": {
+        "dependencies": {
+          "SistemaPlanilla.Entity": "1.0.0"
+        },
+        "runtime": {
+          "SistemaPlanilla.DAL.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SistemaPlanilla.Entity/1.0.0": {
+        "runtime": {
+          "SistemaPlanilla.Entity.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SistemaPlanilla.BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SistemaPlanilla.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SistemaPlanilla.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

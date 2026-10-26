@@ -1,0 +1,233 @@
+﻿namespace SistemaPlanilla.UI.Formularios
+{
+    partial class FrmPrincipal
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmPrincipal));
+            panel1 = new Panel();
+            panel2 = new Panel();
+            label2 = new Label();
+            label1 = new Label();
+            btnDashboard = new FontAwesome.Sharp.IconButton();
+            btnEmpresa = new FontAwesome.Sharp.IconButton();
+            this.btnColaboradores = new FontAwesome.Sharp.IconButton();
+            iconButton2 = new FontAwesome.Sharp.IconButton();
+            pictureBox1 = new PictureBox();
+            panel1.SuspendLayout();
+            panel2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
+            SuspendLayout();
+            // 
+            // panel1
+            // 
+            panel1.BackColor = Color.Teal;
+            panel1.Controls.Add(iconButton2);
+            panel1.Controls.Add(this.btnColaboradores);
+            panel1.Controls.Add(btnEmpresa);
+            panel1.Controls.Add(btnDashboard);
+            panel1.Controls.Add(panel2);
+            panel1.Dock = DockStyle.Left;
+            panel1.Location = new Point(0, 0);
+            panel1.Name = "panel1";
+            panel1.Size = new Size(231, 673);
+            panel1.TabIndex = 0;
+            // 
+            // panel2
+            // 
+            panel2.Controls.Add(label2);
+            panel2.Controls.Add(label1);
+            panel2.Dock = DockStyle.Top;
+            panel2.Location = new Point(0, 0);
+            panel2.Name = "panel2";
+            panel2.Size = new Size(231, 223);
+            panel2.TabIndex = 1;
+            // 
+            // label2
+            // 
+            label2.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label2.ForeColor = Color.White;
+            label2.Location = new Point(10, 170);
+            label2.Name = "label2";
+            label2.Size = new Size(210, 31);
+            label2.TabIndex = 5;
+            label2.Text = "Sistema de Planilla";
+            label2.TextAlign = ContentAlignment.MiddleCenter;
+            // 
+            // label1
+            // 
+            label1.Font = new Font("Segoe UI Semibold", 20.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label1.ForeColor = Color.White;
+            label1.Location = new Point(10, 117);
+            label1.Name = "label1";
+            label1.Size = new Size(210, 51);
+            label1.TabIndex = 4;
+            label1.Text = "HelpPlan";
+            label1.TextAlign = ContentAlignment.MiddleCenter;
+            // 
+            // btnDashboard
+            // 
+            btnDashboard.Cursor = Cursors.Hand;
+            btnDashboard.FlatAppearance.BorderColor = Color.FromArgb(179, 179, 179);
+            btnDashboard.FlatAppearance.BorderSize = 0;
+            btnDashboard.FlatAppearance.MouseOverBackColor = Color.FromArgb(37, 99, 235);
+            btnDashboard.FlatStyle = FlatStyle.Flat;
+            btnDashboard.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnDashboard.ForeColor = Color.White;
+            btnDashboard.IconChar = FontAwesome.Sharp.IconChar.TachometerAltFast;
+            btnDashboard.IconColor = Color.White;
+            btnDashboard.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            btnDashboard.IconSize = 30;
+            btnDashboard.ImageAlign = ContentAlignment.MiddleLeft;
+            btnDashboard.Location = new Point(3, 266);
+            btnDashboard.Margin = new Padding(3, 4, 3, 4);
+            btnDashboard.Name = "btnDashboard";
+            btnDashboard.Padding = new Padding(11, 0, 0, 0);
+            btnDashboard.Size = new Size(223, 67);
+            btnDashboard.TabIndex = 2;
+            btnDashboard.Text = "   Dashboard";
+            btnDashboard.TextAlign = ContentAlignment.MiddleRight;
+            btnDashboard.TextImageRelation = TextImageRelation.ImageBeforeText;
+            btnDashboard.UseVisualStyleBackColor = true;
+            // 
+            // btnEmpresa
+            // 
+            btnEmpresa.Cursor = Cursors.Hand;
+            btnEmpresa.FlatAppearance.BorderColor = Color.FromArgb(179, 179, 179);
+            btnEmpresa.FlatAppearance.BorderSize = 0;
+            btnEmpresa.FlatAppearance.MouseOverBackColor = Color.FromArgb(37, 99, 235);
+            btnEmpresa.FlatStyle = FlatStyle.Flat;
+            btnEmpresa.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnEmpresa.ForeColor = Color.White;
+            btnEmpresa.IconChar = FontAwesome.Sharp.IconChar.BuildingUser;
+            btnEmpresa.IconColor = Color.White;
+            btnEmpresa.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            btnEmpresa.IconSize = 30;
+            btnEmpresa.ImageAlign = ContentAlignment.MiddleLeft;
+            btnEmpresa.Location = new Point(3, 341);
+            btnEmpresa.Margin = new Padding(3, 4, 3, 4);
+            btnEmpresa.Name = "btnEmpresa";
+            btnEmpresa.Padding = new Padding(11, 0, 0, 0);
+            btnEmpresa.Size = new Size(223, 67);
+            btnEmpresa.TabIndex = 6;
+            btnEmpresa.Text = "   Empresa";
+            btnEmpresa.TextAlign = ContentAlignment.MiddleRight;
+            btnEmpresa.TextImageRelation = TextImageRelation.ImageBeforeText;
+            btnEmpresa.UseVisualStyleBackColor = true;
+            btnEmpresa.Click += btnEmpresa_Click;
+            // 
+            // btnColaboradores
+            // 
+            this.btnColaboradores.Cursor = Cursors.Hand;
+            this.btnColaboradores.FlatAppearance.BorderColor = Color.FromArgb(179, 179, 179);
+            this.btnColaboradores.FlatAppearance.BorderSize = 0;
+            this.btnColaboradores.FlatAppearance.MouseOverBackColor = Color.FromArgb(37, 99, 235);
+            this.btnColaboradores.FlatStyle = FlatStyle.Flat;
+            this.btnColaboradores.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            this.btnColaboradores.ForeColor = Color.White;
+            this.btnColaboradores.IconChar = FontAwesome.Sharp.IconChar.UserFriends;
+            this.btnColaboradores.IconColor = Color.White;
+            this.btnColaboradores.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.btnColaboradores.IconSize = 30;
+            this.btnColaboradores.ImageAlign = ContentAlignment.MiddleLeft;
+            this.btnColaboradores.Location = new Point(2, 416);
+            this.btnColaboradores.Margin = new Padding(3, 4, 3, 4);
+            this.btnColaboradores.Name = "btnColaboradores";
+            this.btnColaboradores.Padding = new Padding(11, 0, 0, 0);
+            this.btnColaboradores.Size = new Size(223, 67);
+            this.btnColaboradores.TabIndex = 6;
+            this.btnColaboradores.Text = "   Colaboradores";
+            this.btnColaboradores.TextAlign = ContentAlignment.MiddleRight;
+            this.btnColaboradores.TextImageRelation = TextImageRelation.ImageBeforeText;
+            this.btnColaboradores.UseVisualStyleBackColor = true;
+            // 
+            // iconButton2
+            // 
+            iconButton2.Cursor = Cursors.Hand;
+            iconButton2.FlatAppearance.BorderColor = Color.FromArgb(179, 179, 179);
+            iconButton2.FlatAppearance.BorderSize = 0;
+            iconButton2.FlatAppearance.MouseOverBackColor = Color.FromArgb(37, 99, 235);
+            iconButton2.FlatStyle = FlatStyle.Flat;
+            iconButton2.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            iconButton2.ForeColor = Color.White;
+            iconButton2.IconChar = FontAwesome.Sharp.IconChar.UserFriends;
+            iconButton2.IconColor = Color.White;
+            iconButton2.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            iconButton2.IconSize = 30;
+            iconButton2.ImageAlign = ContentAlignment.MiddleLeft;
+            iconButton2.Location = new Point(4, 491);
+            iconButton2.Margin = new Padding(3, 4, 3, 4);
+            iconButton2.Name = "iconButton2";
+            iconButton2.Padding = new Padding(11, 0, 0, 0);
+            iconButton2.Size = new Size(223, 67);
+            iconButton2.TabIndex = 6;
+            iconButton2.Text = "   Listado Usuarios";
+            iconButton2.TextAlign = ContentAlignment.MiddleRight;
+            iconButton2.TextImageRelation = TextImageRelation.ImageBeforeText;
+            iconButton2.UseVisualStyleBackColor = true;
+            // 
+            // pictureBox1
+            // 
+            pictureBox1.BackColor = Color.Teal;
+            pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
+            pictureBox1.Location = new Point(75, 22);
+            pictureBox1.Name = "pictureBox1";
+            pictureBox1.Size = new Size(70, 70);
+            pictureBox1.TabIndex = 1;
+            pictureBox1.TabStop = false;
+            // 
+            // FrmPrincipal
+            // 
+            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(1262, 673);
+            Controls.Add(pictureBox1);
+            Controls.Add(panel1);
+            MinimumSize = new Size(1280, 720);
+            Name = "FrmPrincipal";
+            StartPosition = FormStartPosition.CenterScreen;
+            Text = "FrmPrincipal";
+            WindowState = FormWindowState.Maximized;
+            panel1.ResumeLayout(false);
+            panel2.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
+            ResumeLayout(false);
+        }
+
+        #endregion
+
+        private Panel panel1;
+        private FontAwesome.Sharp.IconButton iconButton2;
+        private FontAwesome.Sharp.IconButton iconButton1;
+        private FontAwesome.Sharp.IconButton btnEmpresa;
+        private FontAwesome.Sharp.IconButton btnDashboard;
+        private Panel panel2;
+        private Label label2;
+        private Label label1;
+        private PictureBox pictureBox1;
+    }
+}

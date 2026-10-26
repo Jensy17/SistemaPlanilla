@@ -1,0 +1,15 @@
+C:\Users\Administrador\Desktop\Practica C#\SistemaPlanilla\SistemaPlanilla.DAL\bin\Debug\net10.0-windows\SistemaPlanilla.DAL.deps.json
+C:\Users\Administrador\Desktop\Practica C#\SistemaPlanilla\SistemaPlanilla.DAL\bin\Debug\net10.0-windows\SistemaPlanilla.DAL.dll
+C:\Users\Administrador\Desktop\Practica C#\SistemaPlanilla\SistemaPlanilla.DAL\bin\Debug\net10.0-windows\SistemaPlanilla.DAL.pdb
+C:\Users\Administrador\Desktop\Practica C#\SistemaPlanilla\SistemaPlanilla.DAL\bin\Debug\net10.0-windows\SistemaPlanilla.Entity.dll
+C:\Users\Administrador\Desktop\Practica C#\SistemaPlanilla\SistemaPlanilla.DAL\bin\Debug\net10.0-windows\SistemaPlanilla.Entity.pdb
+C:\Users\Administrador\Desktop\Practica C#\SistemaPlanilla\SistemaPlanilla.DAL\obj\Debug\net10.0-windows\SistemaPlanilla.DAL.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\Practica C#\SistemaPlanilla\SistemaPlanilla.DAL\obj\Debug\net10.0-windows\SistemaPlanilla.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\Practica C#\SistemaPlanilla\SistemaPlanilla.DAL\obj\Debug\net10.0-windows\SistemaPlanilla.DAL.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\Practica C#\SistemaPlanilla\SistemaPlanilla.DAL\obj\Debug\net10.0-windows\SistemaPlanilla.DAL.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\Practica C#\SistemaPlanilla\SistemaPlanilla.DAL\obj\Debug\net10.0-windows\SistemaPlanilla.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Practica C#\SistemaPlanilla\SistemaPlanilla.DAL\obj\Debug\net10.0-windows\SistemaP.3255548A.Up2Date
+C:\Users\Administrador\Desktop\Practica C#\SistemaPlanilla\SistemaPlanilla.DAL\obj\Debug\net10.0-windows\SistemaPlanilla.DAL.dll
+C:\Users\Administrador\Desktop\Practica C#\SistemaPlanilla\SistemaPlanilla.DAL\obj\Debug\net10.0-windows\refint\SistemaPlanilla.DAL.dll
+C:\Users\Administrador\Desktop\Practica C#\SistemaPlanilla\SistemaPlanilla.DAL\obj\Debug\net10.0-windows\SistemaPlanilla.DAL.pdb
+C:\Users\Administrador\Desktop\Practica C#\SistemaPlanilla\SistemaPlanilla.DAL\obj\Debug\net10.0-windows\ref\SistemaPlanilla.DAL.dll

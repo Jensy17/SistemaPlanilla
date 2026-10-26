@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SistemaPlanilla.BLL/SistemaPlanilla.BLL.csproj" />
+  <Project Path="SistemaPlanilla.DAL/SistemaPlanilla.DAL.csproj" />
+  <Project Path="SistemaPlanilla.Entity/SistemaPlanilla.Entity.csproj" />
+  <Project Path="SistemaPlanilla.UI/SistemaPlanilla.UI.csproj" />
+</Solution>
